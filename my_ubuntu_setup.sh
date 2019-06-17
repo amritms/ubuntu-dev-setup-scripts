@@ -19,7 +19,7 @@ sudo apt-get install -y build-essential libssl-dev
 sudo apt-get install -y language-pack-en-base
 sudo add-apt-repository ppa:ondrej/php
 sudo apt-get update
-sudo apt-get install -y nginx mcrypt
+sudo apt-get install -y nginx mcrypt php-bcmath
 sudo apt-get install -y php7.3 php7.3-xml php7.3-mbstring php7.3-pgsql php7.3-mysql php7.3-json php7.3-curl php7.3-cli php7.3-common php7.3-gd libapache2-mod-php7.3 php7.3-zip
 sudo service php7.3-fpm restart
 curl -sS https://getcomposer.org/installer | php
