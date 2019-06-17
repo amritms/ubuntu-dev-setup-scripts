@@ -108,7 +108,7 @@ sh get-docker.sh
 sudo pip install docker-compose
 
 # Docker Mysql image
-git clone git@github.com:amritms/docker-multi-project-mysql.git ~/Projects/mysql
+git clone https://github.com/amritms/docker-multi-project-mysql.git ~/Projects/mysql
 
 # Docker Postgres image
 
