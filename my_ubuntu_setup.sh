@@ -31,7 +31,7 @@ sudo chmod a+x /usr/local/bin/php-cs-fixer
 
 
 # Nodejs and NVM
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.1/install.sh | bash
 source ~/.profile
 nvm install node
 sudo nvm use
