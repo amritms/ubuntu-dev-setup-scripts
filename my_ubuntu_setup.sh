@@ -111,6 +111,7 @@ sudo pip install docker-compose
 git clone https://github.com/amritms/docker-multi-project-mysql.git ~/Projects/mysql
 
 # Docker Postgres image
+git clone https://github.com/amritms/docker-multi-project-postgres-alpine.git ~/Projects/postgres
 
 # Sublime Text 
 wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
